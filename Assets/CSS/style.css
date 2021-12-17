@@ -272,3 +272,18 @@ header {
   .contact-info a {
     color: #fce138;
   }
+
+  /* homepage hero */
+  .hero {
+    margin: 20px;
+    font-size: 20px;
+    background-color: white;
+    color: blue;
+  }
+
+  /* secondary hero page */
+  .hero-secondary {
+    margin: 20px;
+    background-color: black;
+    color: red;
+  }
