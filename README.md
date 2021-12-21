@@ -12,3 +12,6 @@ https://wloyola25.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [William Loyola]
+
+# Run Buddy Inc.
+
